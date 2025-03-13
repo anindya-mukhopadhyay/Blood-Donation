@@ -3,9 +3,13 @@ import '/flutter_flow/flutter_flow_theme.dart';
 import '/flutter_flow/flutter_flow_util.dart';
 import '/flutter_flow/flutter_flow_widgets.dart';
 import '/flutter_flow/form_field_controller.dart';
+import 'dart:ui';
 import '/flutter_flow/permissions_util.dart';
 import '/index.dart';
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
+import 'package:mask_text_input_formatter/mask_text_input_formatter.dart';
+import 'package:provider/provider.dart';
 import 'signup_model.dart';
 export 'signup_model.dart';
 
@@ -168,7 +172,9 @@ class _SignupWidgetState extends State<SignupWidget> {
                                     ),
                               ),
                               FFButtonWidget(
-                                onPressed: () async {},
+                                onPressed: () {
+                                  print('Button pressed ...');
+                                },
                                 text: 'Choose from Gallery',
                                 options: FFButtonOptions(
                                   width: 200.0,
