@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "961352833385",
+    "project_id": "blood-9fe58",
+    "storage_bucket": "blood-9fe58.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961352833385:android:47368b11fbe1892e7d85f8",
+        "android_client_info": {
+          "package_name": "com.BLOOD.savelife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961352833385-0ef3qhfa93sa79sdqelves5bvqtd5nc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.BLOOD.savelife",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "961352833385-udf54hp4a0n6dafk0vtrlbvet5unbst2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy6zgdgDiR4CIiZwhkwu07p8G6ANC8S08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961352833385-udf54hp4a0n6dafk0vtrlbvet5unbst2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "961352833385-epfg4f3f3rcn655diesu1o26tvncec86.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.BLOOD.savelife"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
